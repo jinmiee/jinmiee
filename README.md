@@ -105,13 +105,6 @@ Django·MongoDB·Airflow 기반 프로젝트를 중심으로 실무형 서비스
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinmiee\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinmiee\&layout=compact\&theme=tokyonight)
-
----
 
 # 📚 Currently Studying
 
